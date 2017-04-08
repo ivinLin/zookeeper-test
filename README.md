@@ -2,7 +2,7 @@
 这是一个对 zookeeper 集群简单的测试代码工程（java maven）。
 
 ### zookeeper集群搭建
-首先在机器上搭建了zookeeper 伪集群。详细的搭建可参考：[zookeeper 集群搭建](https://github.com/ivinLin/zookeeper-/blob/master/README.md)
+首先在机器上搭建了zookeeper 伪集群。详细的搭建可参考：[zookeeper 集群搭建](https://github.com/ivinLin/zookeeper-setting)
 
 ### 基本功能
 整个工程分为客户端和服务端，主进程+线程分别承载服务端和客户端功能。
