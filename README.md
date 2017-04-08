@@ -1,6 +1,8 @@
 # zookeeper-test
 这是一个对 zookeeper 集群简单的测试代码工程（java maven）。
 
+zookeeper 有非常多的应用场景，这个主要是针对配置管理的一个模拟。
+
 ### zookeeper集群搭建
 首先在机器上搭建了zookeeper 伪集群。详细的搭建可参考：[zookeeper 集群搭建](https://github.com/ivinLin/zookeeper-setting)
 
